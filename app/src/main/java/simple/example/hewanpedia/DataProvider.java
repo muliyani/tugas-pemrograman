@@ -34,7 +34,7 @@ public class DataProvider {
     private static List<Anjing> initDataAnjing(Context ctx) {
         List<Anjing> anjings = new ArrayList<>();
         anjings.add(new Anjing("Bulldog", "Inggris",
-                "Anjing populer yang dikenal dengan badan yang gemuk berotot, wajah seperti kain kusut, dan hidung yang pesek", R.drawable.dog_bulldog));
+                "Anjing populer  yang dikenal dengan badan yang gemuk berotot, wajah seperti kain kusut, dan hidung yang pesek", R.drawable.dog_bulldog));
         anjings.add(new Anjing("Husky", "Alaska,Siberia,Finlandia (daerah bersalju) ",
                 "Anjing jenis khusus yang awalnya digunakan untuk menarik kereta salju", R.drawable.dog_husky));
         anjings.add(new Anjing("Kintamani", "Indonesia",
